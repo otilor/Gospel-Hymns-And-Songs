@@ -1,7 +1,7 @@
 package ghs
 
 import (
-	"fmt"
+	_"fmt"
 	"net/http"
 )
 
